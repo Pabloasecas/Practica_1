@@ -1,4 +1,6 @@
-.card{
-    background-color: coral;
-    box-shadow: 0px, 0px, 10px, #3b3b3b;
+h1{
+    color: rgb(255,83,0);
+    background-color: black;
+    font-family: Agency FB, sans-serif;
+    text-align: center;
 }
