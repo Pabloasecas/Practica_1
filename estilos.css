@@ -6,7 +6,9 @@ h1{
     background-color: black;
     font-family: 'Unbounded', cursive;
     text-align: center;
-    font-size: 60px;
+    font-size: xxx-large;
+    margin-left: auto;
+    margin-right: auto;
 }
 h2{
     color: rgb(0, 0, 43);
