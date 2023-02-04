@@ -16,3 +16,9 @@ h3{
     color: darkslategrey;
     font-family: 'Quicksand', sans-serif;
 }
+strong{
+    color:darkred;
+}
+em{
+    font-style: oblique;
+}
